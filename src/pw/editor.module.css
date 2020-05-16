@@ -1,0 +1,19 @@
+.wrapper {
+  display: flex;
+}
+.editor {
+  border: 1px solid gray;
+  min-width: 500px;
+  min-height: 300px;
+  cursor: text;
+}
+.placeholder {
+  display: inline-block;
+  background: lightblue;
+  cursor: pointer;
+}
+
+.inp {
+  width: 100%;
+  margin-bottom: 8px;
+}
